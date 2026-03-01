@@ -90,9 +90,7 @@ Added the following user to IT-Helpdesk:
 
 - Chris Graves
 
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/fdf67876-43a1-47d4-8454-9f5ce05fa374" />
-
-<img width="1281" height="801" alt="image" src="https://github.com/user-attachments/assets/f3113390-f5d0-4e4c-bb2e-416496fc6931" />
+<img width="1287" height="804" alt="Screenshot 2026-02-28 at 6 11 43 PM" src="https://github.com/user-attachments/assets/898908d9-0dbf-4c0c-8e1d-7b4a36e0fef8" />
 
 Purpose:
 
@@ -113,3 +111,4 @@ Verified:
 ## Comment
 
 > This demonstrates the implementation of a least-privilege LDAP service account and designed role-based access control using Active Directory security groups, ensuring centralized identity governance and application-level role enforcement.
+
